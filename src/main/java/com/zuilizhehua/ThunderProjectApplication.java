@@ -1,4 +1,4 @@
-package com.zuilizhehua.thunder_project;
+package com.zuilizhehua;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

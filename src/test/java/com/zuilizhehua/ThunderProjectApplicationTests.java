@@ -1,4 +1,4 @@
-package com.zuilizhehua.thunder_project;
+package com.zuilizhehua;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
