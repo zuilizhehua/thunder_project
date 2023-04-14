@@ -10,6 +10,6 @@ public class LoginController {
 
     @PostMapping("login")
     public void login(){
-
+        System.out.println("登录了");
     }
 }
